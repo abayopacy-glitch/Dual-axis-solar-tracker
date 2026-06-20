@@ -2,7 +2,7 @@
  * ============================================================
  * DUAL-AXIS SOLAR TRACKER WITH WEATHER & SMS ALERTS
  * Target: Arduino Uno (ATmega328P)
- * Author: Generated Firmware
+ * Author: ABAYO Pacifique, NIYODUSENGA Marie Anne, IHIMBAZWE Landry
  * ============================================================
  *
  * PIN ASSIGNMENT SUMMARY
